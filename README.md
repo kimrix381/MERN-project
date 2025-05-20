@@ -2,4 +2,4 @@
 
 Solo Project
 
-Apertment management system
+Apartment management system
